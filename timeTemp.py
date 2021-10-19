@@ -1,5 +1,6 @@
-import time
-
-while(1):
+#import time
+i= 1
+while i < 4:
      print("HEllo world")
-     time.sleep(5)
+     i+= 1
+#time.sleep(5)
